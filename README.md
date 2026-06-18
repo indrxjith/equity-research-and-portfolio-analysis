@@ -1,4 +1,5 @@
-# 📈 Quantitative Portfolio Optimization & Equity Analysis
+# 📈 equity-research-and-portfolio-analysis
+
 
 ## Overview
 
