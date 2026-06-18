@@ -1,4 +1,4 @@
-# 📈 Quantitative Stock Portfolio Analysis & Machine Learning-Based Equity Research
+# 📈 Quantitative Portfolio Optimization & Equity Analysis
 
 ## Overview
 
